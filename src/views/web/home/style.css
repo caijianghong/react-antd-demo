@@ -1,0 +1,37 @@
+#home {
+  height: 100%;
+  background-color: #f9f9f9;
+}
+.home-box {
+  display: flex;
+  padding: 20px 0 36px;
+  width: 1200px;
+  margin: 0 auto;
+}
+.home-box dt {
+  width: 800px;
+  margin-right: 20px;
+}
+.lunbo-box {
+  width: 800px;
+  height: 400px;
+}
+
+.lunbo-box .ant-carousel .slick-slide{
+  height: 400px;
+}
+.banner-box {
+  position: relative;
+}
+.banner-box img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+
+.banner-box span {
+  position: absolute;
+  left: 10px;
+  bottom: 8px;
+  color: #fff;
+}

@@ -1,0 +1,41 @@
+#infoDetail {
+  height: 100%;
+  background-color: #e4e4e4;
+  
+}
+#infoDetail .info-detail-box {
+  width: 1200px;
+  margin: 0 auto;
+  padding-top: 20px;
+  height: 100%;
+}
+#infoDetail .info-detail-box dl {
+  padding: 30px 25px 40px;
+  background-color: #fff;
+  height: calc(100% - 110px);
+  overflow: hidden;
+}
+
+#infoDetail .info-detail-box dl dt {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid #d9d9d9;
+  margin-bottom: 30px;
+}
+#infoDetail .info-detail-box dl dd {
+  padding: 0 50px;
+}
+
+#infoDetail .info-detail-box dl dt h4 {
+  font-weight: 400;
+  font-size: 28px;
+  color: #2376d2;
+}
+#infoDetail .info-detail-box dl dt p {
+  font-weight: 700;
+  font-size: 18px;
+  color: #6b6b6b;
+  margin: 24px 0 18px;
+}

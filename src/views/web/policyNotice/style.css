@@ -1,0 +1,6 @@
+.policy-notice-box {
+  display: flex;
+  width: 1200px;
+  margin: 10px auto 0px;
+  border: 1px solid rgb(204, 204, 204);
+}
