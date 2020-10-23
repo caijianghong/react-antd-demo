@@ -10,7 +10,8 @@ import TodoList from '../views/web/todoList';
 import AdminHome from '../views/admin/home';
 import Setting from '../views/admin/setting';
 import {GlobalStyle} from '../style';
-import { BrowserRouter as Router,Route} from 'react-router-dom'
+// import { BrowserRouter  as Router,Route} from 'react-router-dom'
+import { HashRouter as Router,Route} from 'react-router-dom'
 import HeadCom from '../Components/HeadCom';
 import FootCom from '../Components/FootCom';
 import { ConfigProvider } from 'antd'; //antd 目前的默认文案是英文，如果需要使用其他语言
