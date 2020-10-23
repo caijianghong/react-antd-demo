@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.5f8e1791.chunk.css",
-    "main.js": "./static/js/main.913b25e6.chunk.js",
-    "main.js.map": "./static/js/main.913b25e6.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.673723db.js",
-    "runtime-main.js.map": "./static/js/runtime-main.673723db.js.map",
-    "static/css/2.3cb76441.chunk.css": "./static/css/2.3cb76441.chunk.css",
-    "static/js/2.58b9327e.chunk.js": "./static/js/2.58b9327e.chunk.js",
-    "static/js/2.58b9327e.chunk.js.map": "./static/js/2.58b9327e.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.006cf282af3afe7c4a4c1e95ddab1bea.js": "./precache-manifest.006cf282af3afe7c4a4c1e95ddab1bea.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.3cb76441.chunk.css.map": "./static/css/2.3cb76441.chunk.css.map",
-    "static/css/main.5f8e1791.chunk.css.map": "./static/css/main.5f8e1791.chunk.css.map",
-    "static/js/2.58b9327e.chunk.js.LICENSE.txt": "./static/js/2.58b9327e.chunk.js.LICENSE.txt",
-    "static/media/login_ball.png": "./static/media/login_ball.5343e629.png",
-    "static/media/style.css": "./static/media/login_top.1d37e129.png"
+    "main.css": "/react-antd-demo/static/css/main.95e6b96e.chunk.css",
+    "main.js": "/react-antd-demo/static/js/main.2750c96b.chunk.js",
+    "main.js.map": "/react-antd-demo/static/js/main.2750c96b.chunk.js.map",
+    "runtime-main.js": "/react-antd-demo/static/js/runtime-main.9022be74.js",
+    "runtime-main.js.map": "/react-antd-demo/static/js/runtime-main.9022be74.js.map",
+    "static/css/2.3cb76441.chunk.css": "/react-antd-demo/static/css/2.3cb76441.chunk.css",
+    "static/js/2.2310cad7.chunk.js": "/react-antd-demo/static/js/2.2310cad7.chunk.js",
+    "static/js/2.2310cad7.chunk.js.map": "/react-antd-demo/static/js/2.2310cad7.chunk.js.map",
+    "index.html": "/react-antd-demo/index.html",
+    "precache-manifest.488c1fc0d1a3d2ffe911e4a32f14abad.js": "/react-antd-demo/precache-manifest.488c1fc0d1a3d2ffe911e4a32f14abad.js",
+    "service-worker.js": "/react-antd-demo/service-worker.js",
+    "static/css/2.3cb76441.chunk.css.map": "/react-antd-demo/static/css/2.3cb76441.chunk.css.map",
+    "static/css/main.95e6b96e.chunk.css.map": "/react-antd-demo/static/css/main.95e6b96e.chunk.css.map",
+    "static/js/2.2310cad7.chunk.js.LICENSE.txt": "/react-antd-demo/static/js/2.2310cad7.chunk.js.LICENSE.txt",
+    "static/media/login_ball.png": "/react-antd-demo/static/media/login_ball.5343e629.png",
+    "static/media/style.css": "/react-antd-demo/static/media/login_top.1d37e129.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.673723db.js",
+    "static/js/runtime-main.9022be74.js",
     "static/css/2.3cb76441.chunk.css",
-    "static/js/2.58b9327e.chunk.js",
-    "static/css/main.5f8e1791.chunk.css",
-    "static/js/main.913b25e6.chunk.js"
+    "static/js/2.2310cad7.chunk.js",
+    "static/css/main.95e6b96e.chunk.css",
+    "static/js/main.2750c96b.chunk.js"
   ]
 }
